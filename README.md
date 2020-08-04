@@ -483,6 +483,7 @@ Illustrations can be used on your landing page, blog posts, inside your app or e
 * [LukaszAdam](https://lukaszadam.com/illustrations) —  free vector art illustrations and icons. They are available for personal and commercial use. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [ManyPixels](https://gallery.manypixels.co) — royalty-free illustrations to power up your projects. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Ouch](https://icons8.com/ouch) — vector illustrations to class up your project. Free for both personal and commercial use. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+* [Pixel True](https://www.pixeltrue.com/free-illustrations) — free vector illustrations & animations for personal and commercial use. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [unDraw](https://undraw.co) — collection of beautiful SVG images. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 
 
